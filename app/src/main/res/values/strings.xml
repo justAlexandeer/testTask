@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">photoGallery</string>
+    <string name="mainActivity_buttonMakePhoto">Сделать фото</string>
+</resources>
